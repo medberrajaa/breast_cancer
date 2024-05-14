@@ -1,5 +1,3 @@
-Nom : Berrajaa Mohammed
-Sujet : Interface graphique pour détection de cancer de sain avec svm
 Le projet se compose de quelques fichiers importants :
 -learn.py : pour créer un model SVM et l'entrainer sur une dataset existante dans scikit-learn (load_breat_cancer), et ensuite décomposer les données en train et test pour vérifier le score du model et ensuite le sauvegarder dans le dossier courant.
 -create_csv.py : pour créer un fichier .csv depuis la dataset sur sklearn, ce script est pour tester des fonctionnalités sur l'UI (User Interface).
